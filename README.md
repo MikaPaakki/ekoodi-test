@@ -1,2 +1,2 @@
 # ekoodi-test
-Test repo
+3koodi Test repository
